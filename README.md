@@ -13,3 +13,5 @@ Profitability: Visualization of profit margins and top-performing products acros
 Regional Insights: Interactive maps showing store performance across various countries and regions.
 
 Trends & Forecasting: Identifies historical trends and projects future sales performance using time-series analysis.
+
+![image](https://github.com/user-attachments/assets/425ad712-5ee5-4863-b80e-f0c52cf4282a)
